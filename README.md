@@ -9,3 +9,6 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+[![CodeWars](https://www.codewars.com/users/FelixDev23/badges/micro)](https://www.codewars.com/users/FelixDev23)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Felix--Okeyo-orange?style=flat-square&logo=leetcode)](https://leetcode.com/Felix-Okeyo/)
+
