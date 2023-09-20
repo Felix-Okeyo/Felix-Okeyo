@@ -1,8 +1,4 @@
 ### Hi there 👋
-### Currently
-
-[![GitHub followers](https://img.shields.io/github/followers/felix-okeyo?label=Follow&style=social)](https://github.com/felix-okeyo)
-
 ### Languages and Tools:
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
