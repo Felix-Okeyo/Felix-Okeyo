@@ -3,7 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Okeyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub followers](https://img.shields.io/github/followers/felix-okeyo?label=Follow&style=social)](https://github.com/felix-okeyo)
-[![Twitter Follow](https://img.shields.io/twitter/follow/felix_okeyo?style=social)](https://twitter.com/felix_okeyo)
 
 ### Languages and Tools:
 
