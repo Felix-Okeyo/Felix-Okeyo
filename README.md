@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### Currently
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Okeyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub followers](https://img.shields.io/github/followers/felix-okeyo?label=Follow&style=social)](https://github.com/felix-okeyo)
 
 ### Languages and Tools:
