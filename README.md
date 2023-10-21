@@ -13,4 +13,6 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-306998?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-4EAF57?style=flat-square&logo=alembic&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-[![Postman](https://img.shields.io/badge/Postman-View%20Collection-blue?logo=postman)](YOUR_PUBLIC_LINK)
+[![Postman](https://img.shields.io/badge/Postman-View%20Collection-blue?logo=postman)]
+[![Firebase](https://img.shields.io/badge/Firebase-v9.0.0-yellow)]
+
