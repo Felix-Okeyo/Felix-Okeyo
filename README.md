@@ -15,5 +15,5 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-View%20Collection-blue?logo=postman)
 ![Firebase](https://img.shields.io/badge/Firebase-v9.0.0-yellow)
-![Supabase](https://img.shields.io/badge/Powered%20by-Superbase-blue?style=for-the-badge&logo=supabase)
+![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
 
