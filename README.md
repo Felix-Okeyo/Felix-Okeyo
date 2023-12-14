@@ -1,5 +1,8 @@
-### Hi there 👋
-### Languages and Tools
+### Hello there 👋
+
+Hello, I'm Felix a junior software engineer with a knack for frontend web development (primarily). I equally have experience in API development, worked in teams on open-source projects,  and innovative products. Ready to gain more experience, improve on code practice, contribute to innovating projects. Always seeking excellence and timely delivery.
+
+### 🛠️ Technologies and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -13,3 +16,6 @@
 ![Postman](https://img.shields.io/badge/Postman-View%20Collection-blue?logo=postman)
 ![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
 
+### 📊 Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-okeyo)](https://github.com/anuraghazra/github-readme-stats)
