@@ -20,3 +20,5 @@ Hello, I'm Felix a junior software engineer with a knack for frontend web develo
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felix-okeyo&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-okeyo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
