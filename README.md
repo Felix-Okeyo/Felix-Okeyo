@@ -1,3 +1,5 @@
+<img src="./avatar.jpg" alt="normal avatar" width="500" height="400">
+
 ### Hello there 👋
 
 Hello, I'm Felix a junior software engineer with a knack for frontend web development (primarily). I equally have experience in API development, worked in teams on open-source projects,  and innovative products. Ready to gain more experience, improve on code practice, contribute to innovating projects. Always seeking excellence and timely delivery.
