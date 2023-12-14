@@ -2,7 +2,9 @@
 
 ### Hello there 👋
 
-Hello, I'm Felix a junior software engineer with a knack for frontend web development (primarily). I equally have experience in API development, worked in teams on open-source projects,  and innovative products. Ready to gain more experience, improve on code practice, contribute to innovating projects. Always seeking excellence and timely delivery.
+Hello, I'm Felix a junior software engineer with a knack for frontend web development (primarily). 
+    1. I have experience in API development, worked in teams on open-source projects,  and innovative products. 
+    2. Ready to gain more experience, improve on code practice, contribute to innovating projects. Always seeking excellence and timely delivery.
 
 ### 🛠️ Technologies and Tools
 
