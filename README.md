@@ -20,8 +20,7 @@ Hello, I'm Felix a junior full-stack software engineer with a knack for frontend
 
 ### 📊 Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felix-okeyo&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felix-okeyo&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
 
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-okeyo&theme=dark&show_icons=true)
 ### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-okeyo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
