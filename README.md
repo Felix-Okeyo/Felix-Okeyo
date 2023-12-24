@@ -13,6 +13,7 @@ Hello, I'm Felix a junior full-stack software engineer with a knack for frontend
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-306998?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-4EAF57?style=flat-square&logo=alembic&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-View%20Collection-blue?logo=postman)
 ![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
