@@ -1,4 +1,4 @@
-<img src="./avatar.jpg" alt="normal avatar" width="600" height="400">
+<img src="./logo.jpeg" alt="normal avatar" width="600" height="400">
 
 ### Hello there 👋
 
