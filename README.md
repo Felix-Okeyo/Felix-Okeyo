@@ -18,6 +18,8 @@ Hello, I'm Felix a junior full-stack software engineer with a knack for frontend
 ![Postman](https://img.shields.io/badge/Postman-View%20Collection-blue?logo=postman)
 ![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-v9.0.0-yellow)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📊 Statistics
 
