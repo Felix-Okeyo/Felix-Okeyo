@@ -20,6 +20,7 @@ Hello, I'm Felix a junior full-stack software engineer with a knack for frontend
 ![Firebase](https://img.shields.io/badge/Firebase-v9.0.0-yellow)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### 📊 Statistics
 
