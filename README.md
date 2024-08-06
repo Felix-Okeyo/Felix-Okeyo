@@ -33,4 +33,4 @@ Hello, I'm Felix a junior full-stack software engineer. Ready to gain more exper
 ### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-okeyo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Felix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felix-okeyo&theme=gotham&layout=compact)
+![Felix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felixokeyo&theme=gotham&layout=compact)
