@@ -28,7 +28,7 @@ Hello, I'm Felix a junior full-stack software engineer. Ready to gain more exper
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felix-okeyo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-okeyo&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-okeyo&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-okeyo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
