@@ -26,7 +26,7 @@ Hello, I'm Felix a junior full-stack software engineer. Ready to gain more exper
 
 ### 📊 Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felix-okeyo&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Felix-Okeyo&theme=merko&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
 
 
 ### 
