@@ -7,6 +7,7 @@ Hello, I'm Felix a junior full-stack software engineer. Ready to gain more exper
 ### 🛠️ Technologies and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=101)
