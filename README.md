@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-Hello, I'm Felix a junior full-stack software engineer. Ready to gain more experience, improve on code practices, and contribute to innovative projects. Currently, exploring new technologies, reading a lot and solving DSAs. 
+Hello, I'm Felix a full-stack software engineer with 2+ years experience. Ready to gain more experience, improve on code practices, and contribute to innovative projects. Currently, exploring new technologies, reading a lot and solving DSAs. 
 
 ### 🛠️ Technologies and Tools
 
