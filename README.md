@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-Hello, I'm Felix a full-stack software engineer. Currently in web with a transition yearn towards mobile and later systems.  
+Hello, I'm Felix a full-stack software engineer. 
 
 ### 🛠️ Technologies and Tools
 
