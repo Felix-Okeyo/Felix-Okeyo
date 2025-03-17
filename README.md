@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-Hello, I'm Felix a full-stack software engineer. 
+Hello, I'm Felix a full-stack software development. 
 
 ### 🛠️ Technologies and Tools
 
