@@ -1,5 +1,3 @@
-<img src="./logo.jpeg" alt="normal avatar" width="700" height="400">
-
 ### Hello there 👋
 
 Hello, I'm Felix a full-stack software development. 
