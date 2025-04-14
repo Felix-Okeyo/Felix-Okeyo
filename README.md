@@ -22,9 +22,3 @@ Hello, I'm Felix a full-stack software development.
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-
-
-### 📊 My Statistics
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Felix-Okeyo&theme=merko&exclude_days=Sun)](https://git.io/streak-stats)
-
