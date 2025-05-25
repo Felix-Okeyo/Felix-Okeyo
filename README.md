@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Hello, I'm Felix a full-stack software development. 
+I'm Felix and I do full-stack software development. 
 
 ### 🛠️ Technologies and Tools
 
